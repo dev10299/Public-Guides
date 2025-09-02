@@ -1,9 +1,0 @@
-### GIT ###
-Commit Changes:
-    * Command: git commit -m "<message>"
-Create local branch: 
-    * Command: git checkout -b <branchName>
-Push local branch to remote
-    * Command: git push -u[--set-upstream] origin <branchName>
-Switch to branch:
-    * Command: git checkout <branchName>
